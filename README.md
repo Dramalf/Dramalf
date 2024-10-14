@@ -1,16 +1,16 @@
-## Hi there 👋
+-  👋 Hi, I’m Jerry Ma,马聆风  
+- 👀 I’m interested in Data Analysis, Software engineering, Multimedia processing
+-  🔬 I’m currently having Master degree study at UCSD
+- 📫 How to reach me
+  -  mlfjerry2000@gmail.com
+  -  lim017@ucsd.edu
 
-<!--
-**Dramalf/Dramalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!---
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=dramalf&show_icons=true&hide_rank=true&theme=transparent"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dramalf&size_weight=0.5&count_weight=0.5&layout=donut&theme=transparent"/>
+</a>
 -->
