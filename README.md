@@ -5,7 +5,6 @@
   -  mlfjerry2000@gmail.com
   -  lim017@ucsd.edu
 
-
 <!---
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=dramalf&show_icons=true&hide_rank=true&theme=transparent"/>
@@ -14,3 +13,6 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dramalf&size_weight=0.5&count_weight=0.5&layout=donut&theme=transparent"/>
 </a>
 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dramalf&hide=css,c,jupyter%20notebook,html,tex&exclude_repo=gl_transition_demo,HUST_DATABASE_LAB,EatWow-project,drawVideo,timeliner,socketio-demo,Field_Reservation_Platform&size_weight=0.5&count_weight=0.5&layout=donut&theme=transparent"/>
+</a>
