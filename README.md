@@ -1,5 +1,5 @@
 -  👋 Hi, I’m Jerry Ma,马聆风  
-- 👀 I’m interested in Data Analysis, Software engineering, Multimedia processing
+- 👀 I’m interested in LLM system, Agent design, Software engineering, Multimedia processing
 -  🔬 I’m currently having Master degree study at UCSD
 - 📫 How to reach me
   -  mlfjerry2000@gmail.com
