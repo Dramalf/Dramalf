@@ -1,4 +1,4 @@
--  👋 Hi, I’m Jerry Ma,马聆风  
+-  👋 Hi, I’m Jerry Ma
 - 👀 I’m interested in LLM system, Agent design, Software engineering, Multimedia processing
 -  🔬 I’m currently having Master degree study at UCSD
 - 📫 How to reach me
